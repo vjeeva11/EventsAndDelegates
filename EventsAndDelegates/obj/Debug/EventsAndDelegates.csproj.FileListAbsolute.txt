@@ -1,0 +1,13 @@
+G:\DotNetSourceCode\Delegates_oops\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+G:\DotNetSourceCode\Delegates_oops\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+G:\DotNetSourceCode\Delegates_oops\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+G:\DotNetSourceCode\Delegates_oops\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csprojResolveAssemblyReference.cache
+G:\DotNetSourceCode\Delegates_oops\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+G:\DotNetSourceCode\Delegates_oops\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb
+E:\Jeeva\DotNetSourceCode\Delegates_oops\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+E:\Jeeva\DotNetSourceCode\Delegates_oops\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+E:\Jeeva\DotNetSourceCode\Delegates_oops\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb
+E:\Jeeva\DotNetSourceCode\Delegates_oops\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+E:\Jeeva\DotNetSourceCode\Delegates_oops\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+E:\Jeeva\DotNetSourceCode\Delegates_oops\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csprojAssemblyReference.cache
+E:\Jeeva\DotNetSourceCode\Delegates_oops\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.CoreCompileInputs.cache
